@@ -1,5 +1,5 @@
 # Parent-Child-Process
- A parent process that will create child processes to perform tasks and will collect the output from these child
+ A parent process that will create child processes to perform tasks and will collect the output from these child.
 
 # Process
 A parent process that will create child processes to perform tasks and will collect the output from these children. There are three tasks that should be performed:•Read the input file that contains Linux shell commands. Parent process will create a child process to read that file and child process will return the content of that file in the form of a string using a shared memory area.•Execute the Linux shell commands read from the input file and execute them one by one. A child process will be created to execute these commands and the output will be returned by the child process in the form of string using pipe.•The parent process will write the output of commands to the screen.
