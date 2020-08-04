@@ -7,4 +7,6 @@ A parent process that will create child processes to perform tasks and will coll
 
 # Diagram
 The following flow chart describes the flow of the program
+
+
 ![Screen Shot 2020-08-04 at 6 46 49 AM](https://user-images.githubusercontent.com/68686454/89285448-603a0700-d61e-11ea-9fb8-9b6d8209a632.png)
